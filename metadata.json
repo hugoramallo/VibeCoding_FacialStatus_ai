@@ -1,0 +1,7 @@
+{
+  "name": "VibeCoding_facial_status_ai",
+  "description": "Here’s an improved English version:\n\nDetects facial status, micro-expressions, and estimates age in real time, providing a fast and accurate interpretation of what the user’s face is conveying.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
